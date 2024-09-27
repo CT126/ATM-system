@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Atm_project
 {
@@ -6,7 +6,7 @@ namespace Atm_project
     {
         static void Main(string[] args)
         {
-            string username = "Jhon doe"; 
+            string username = "Hubert Wisniewski"; 
             string pin = "1234"; 
             string inputUser, inputPin;
             double balance = 0;
@@ -30,10 +30,10 @@ namespace Atm_project
                 else
                 {
                     attempts++;
-                    Console.WriteLine("Incorrect username or PIN. Try again.");
+                    Console.WriteLine("What the sigma try again.");
                 }
             }
-            Console.WriteLine("Too many failed attempts. Exiting.");
+            Console.WriteLine("Your not the orignal Ohio rizzler plz exit now .");
         }
 
         static void MainMenu(ref double balance)
