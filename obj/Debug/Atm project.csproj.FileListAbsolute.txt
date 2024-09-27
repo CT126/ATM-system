@@ -1,0 +1,7 @@
+C:\Users\709063\source\repos\Atm project\Atm project\bin\Debug\Atm project.exe.config
+C:\Users\709063\source\repos\Atm project\Atm project\bin\Debug\Atm project.exe
+C:\Users\709063\source\repos\Atm project\Atm project\bin\Debug\Atm project.pdb
+C:\Users\709063\source\repos\Atm project\Atm project\obj\Debug\Atm project.csproj.AssemblyReference.cache
+C:\Users\709063\source\repos\Atm project\Atm project\obj\Debug\Atm project.csproj.CoreCompileInputs.cache
+C:\Users\709063\source\repos\Atm project\Atm project\obj\Debug\Atm project.exe
+C:\Users\709063\source\repos\Atm project\Atm project\obj\Debug\Atm project.pdb
