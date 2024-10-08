@@ -6,7 +6,7 @@ namespace Atm_project
     {
         static void Main(string[] args)
         {
-            string username = "The original Skibidi Gyatt"; 
+            string username = "Jhon Doe"; 
             string pin = "1234"; 
             string inputUser, inputPin;
             double balance = 0;
